@@ -1,0 +1,26 @@
+import java.util.*;
+ // omar bonilla
+public class Main {
+    public static void main(String[] args) throws Exception {
+            int i, d, suma;
+        for(i=1;i<=30;i++){
+          suma =0;
+          for(d=1;d<i;d++){  
+             if(i%d==0){
+                suma=suma+d;
+                 }
+            }
+          if(i==suma){          
+                 System.out.println("El numero "+i+" es un numero perfecto;");
+              }
+            else
+          if(i<suma){          
+                 System.out.println("El numero "+i+" es un numero abundante");
+              }
+              else
+              if(i>suma){  
+               System.out.println("El numero "+i+" es un numero deficiene");
+              }
+        }
+    }
+}
