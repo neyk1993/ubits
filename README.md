@@ -2,12 +2,19 @@
 
 Buen dia 
 
-los datos de conexion estan en la clase conectar en la carpeta clase.Esta en bd mysql se adjunta ademas una especificacion de la base de datos, el diagrama solicitado y el ejercicio en java 
+Se encuentran 2 carpetas PruebTecnica y ubitsoruebados
+los cuales son 2 sistemas que se utilizan la misma bd em mysql
+para la carpeta PruebTecnica se modifica la conexion en clases Conectar
+y en ubitsoruebados en application/config/database.php
 
-se integra bootstrap y se maneja en lo mas posible jquery y php se puede hacer de muchas formas pero coji la mas compleja
+la diferencia entre una prueba y otra es que en ubitsoruebados
+se pretende mostar el manejo de framework de trabajo y en el otro algo
+similar pero realizado desde 0 Ademas que en esta podremos crear mascotas
+de una forma facil den la misma hoja 
 
+Ademas se envia la aptitude tanto en java como en php,un MER y un MR de la
+base de datos
 
-Se que puedo dar mucho mas de mi y deseo la oportunidad de demostrar que soy la mejor opcion
+De atenmano muchas gracias por esta oportunidad y pase lo que pase
+fue un gran objetivo 
 
-
-De antemano muchas gracias 
