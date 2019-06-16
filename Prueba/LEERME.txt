@@ -1,9 +1,0 @@
-Buen dia 
-
-los datos de conexion estan en la 
-clase conectar en la carpeta clase esta en bd mysql se adjunta ademas una especificacion de la base de datos
-
-se integra bootstrap y se maneja en lo mas posible jquery y php se puede hacer de muchas formas pero coji la mas compleja
-
-
-De antemano muchas gracias 
