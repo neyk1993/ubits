@@ -2,7 +2,7 @@
 
 Buen dia 
 
-Se encuentran 2 carpetas PruebTecnica y ubitsoruebados
+Se encuentran 2 carpetas PruebaTecnica y ubitsoruebados
 los cuales son 2 sistemas que se utilizan la misma bd em mysql
 para la carpeta PruebTecnica se modifica la conexion en clases Conectar
 y en ubitsoruebados en application/config/database.php
